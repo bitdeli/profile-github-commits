@@ -22,3 +22,5 @@ This data source provides commits for the given repository in GitHub.
     <http://developer.github.com/v3/repos/commits/>`_.
 
 - **Update interval:** 15 minutes.
+
+- **Code:** `bitdeli/profile-github-commits <https://github.com/bitdeli/profile-github-commits>`_
