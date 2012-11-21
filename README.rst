@@ -17,6 +17,8 @@ This data source provides commits for the given repository in GitHub.
              "commits": commits
          }
 
-    where *commits* is a :mod:`bitdeli.lazylist`.
+    where *commits* is a :mod:`bitdeli.lazylist` containing raw commit objects
+    from the `GitHub Repo Commits API
+    <http://developer.github.com/v3/repos/commits/>`_.
 
 - **Update interval:** 15 minutes.
