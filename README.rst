@@ -17,6 +17,6 @@ This data source provides commits for the given repository in GitHub.
              "commits": commits
          }
 
-    where *commits* is a :mod:`bitdeli.chunkedlist`.
+    where *commits* is a :mod:`bitdeli.lazylist`.
 
 - **Update interval:** 15 minutes.
