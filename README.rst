@@ -24,3 +24,9 @@ This data source provides commits for the given repository in GitHub.
 - **Update interval:** 15 minutes.
 
 - **Code:** `bitdeli/profile-github-commits <https://github.com/bitdeli/profile-github-commits>`_
+
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/bitdeli/profile-github-commits/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
